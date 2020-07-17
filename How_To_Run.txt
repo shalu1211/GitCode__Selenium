@@ -1,0 +1,4 @@
+1- Pull code from Git Repo
+2- Update project and resolve dependencies.
+3- Add chromedriver.exe to ..\\Driver folder
+4- Update Username and password in ..Datafiles\\data.properties file
